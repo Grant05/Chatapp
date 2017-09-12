@@ -1,0 +1,36 @@
+
+.auth-form {
+  display: inline-block;
+  position: absolute;
+  height: 40%;
+  width: 30%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/*.msg-container {
+  background-color: yellow;
+  width: 100%;
+  display: flex;
+}*/
+
+.msg-container {
+  position: relative;
+  font-family: adelle-sans-ultra-thin, sans-serif;
+  font-style: normal;
+  font-weight: 200;
+}
+
+.chat-container {
+  width: 80%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.chat-form {
+  width: 80%;
+  padding-left: 5%;
+  padding-right: 5%;
+  display: inline-block;
+}
